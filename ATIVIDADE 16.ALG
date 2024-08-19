@@ -1,34 +1,32 @@
 Algoritmo "Atividade 16"
 // 
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 15/08/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
    n1,n2,n3,n4,n5,soma: real
 
 inicio
-   escreva ("Digite o primeiro número: ")
+   escreva ("Digite o primeiro nÃºmero: ")
    leia (n1)
 
-   escreva ("Digite o segundo número: ")
+   escreva ("Digite o segundo nÃºmero: ")
    leia (n2)
 
-   escreva ("Digite o terceiro número: ")
+   escreva ("Digite o terceiro nÃºmero: ")
    leia (n3)
 
-   escreva ("Digite o quarto número: ")
+   escreva ("Digite o quarto nÃºmero: ")
    leia (n4)
 
-   escreva ("Digite o quinto número: ")
+   escreva ("Digite o quinto nÃºmero: ")
    leia (n5)
 
    soma := n1+n2+n3+n4+n5
 
-   escreva ("A soma dos 5 números é: ",soma)
-
-fimalgoritmo
-
+   escreva ("A soma dos 5 nÃºmeros Ã©: ",soma)
+
 
 Fimalgoritmo
