@@ -1,11 +1,11 @@
 Algoritmo "Atividade 19"
 // 
 //  
-// DescriÁ„o   : Aqui vocÍ descreve o que o programa faz! (funÁ„o)
+// Descri√ß√£o   : Aqui voc√™ descreve o que o programa faz! (fun√ß√£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 15/08/2024
 Var
-// SeÁ„o de DeclaraÁıes das vari·veis 
+// Se√ß√£o de Declara√ß√µes das vari√°veis 
    nome: caractere
    idade: inteiro
    profissao: caractere
@@ -18,24 +18,18 @@ inicio
    escreva ("Digite a sua idade: ")
    leia (idade)
 
-   escreva ("Digite a sua profiss„o: ")
+   escreva ("Digite a sua profiss√£o: ")
    leia (profissao)
 
-   escreva ("Digite o seu sal·rio: ")
+   escreva ("Digite o seu sal√°rio: ")
    leia (salario)
 
    desconto := salario * 0.013
 
    escreval ("Nome: ",nome)
    escreval ("Idade: ",idade)
-   escreval ("Profiss„o: ",profissao)
-   escreval ("Sal·rio: R$",salario:0:2)
-   escreval ("Desconto para o plano de sa˙de: R$",desconto:0:2)
-
-
-fimalgoritmo
-
-fimalgoritmo
-
+   escreval ("Profiss√£o: ",profissao)
+   escreval ("Sal√°rio: R$",salario:0:2)
+   escreval ("Desconto para o plano de sa√∫de: R$",desconto:0:2)
 
 Fimalgoritmo
