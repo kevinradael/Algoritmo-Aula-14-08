@@ -1,11 +1,11 @@
 Algoritmo "Atividade 17"
 // 
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 15/08/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
    n1,n2,n3,n4: caractere
    i1,i2,i3,i4,media: real
 
@@ -32,11 +32,6 @@ inicio
 
    media := (i1+i2+i3+i4)/4
 
-   escreva ("A média das idades é: ",media)
-
-fimalgoritmo
-
-fimalgoritmo
-
+   escreva ("A mÃ©dia das idades Ã©: ",media)
 
 Fimalgoritmo
