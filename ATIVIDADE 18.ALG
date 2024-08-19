@@ -1,26 +1,20 @@
 Algoritmo "Atividade 18"
 // 
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 15/08/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
    n,resto: inteiro
 
 
 inicio
-   escreva ("Digite um número inteiro: ")
+   escreva ("Digite um nÃºmero inteiro: ")
    leia (n)
 
    resto := n%2
 
-   escreva ("O resto da divisão de ",n, " por 2 é: ",resto)
-
-
-fimalgoritmo
-
-fimalgoritmo
-
+   escreva ("O resto da divisÃ£o de ",n, " por 2 Ã©: ",resto)
 
 Fimalgoritmo
