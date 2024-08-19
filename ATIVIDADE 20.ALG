@@ -1,11 +1,11 @@
 Algoritmo "Atividade 20"
 // 
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 15/08/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
    numero1, numero2, numero3, numero4, numero5, media_ponderada: real
    peso1, peso2, peso3, peso4, peso5, soma_pesos: real
 
@@ -16,31 +16,25 @@ inicio
    peso4 := 5
    peso5 := 3
 
-   escreva ("Digite o primeiro número: ")
+   escreva ("Digite o primeiro nÃºmero: ")
    leia (numero1)
 
-   escreva ("Digite o segundo número: ")
+   escreva ("Digite o segundo nÃºmero: ")
    leia (numero2)
 
-   escreva ("Digite o terceiro número: ")
+   escreva ("Digite o terceiro nÃºmero: ")
    leia (numero3)
 
-   escreva ("Digite o quarto número: ")
+   escreva ("Digite o quarto nÃºmero: ")
    leia (numero4)
 
-   escreva ("Digite o quinto número: ")
+   escreva ("Digite o quinto nÃºmero: ")
    leia (numero5)
 
    soma_pesos := peso1+peso2+peso3+peso4+peso5
 
    media_ponderada := (numero1*peso1+numero2*peso2+numero3*peso3+numero4*peso4+numero5*peso5)/soma_pesos
 
-   escreva ("A média ponderada dos números é: ",media_ponderada:0:2)
-
-
-fimalgoritmo
-
-fimalgoritmo
-
+   escreva ("A mÃ©dia ponderada dos nÃºmeros Ã©: ",media_ponderada:0:2)
 
 Fimalgoritmo
